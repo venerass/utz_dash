@@ -1,0 +1,10 @@
+# FILEPATH: /home/veneras/code/utz_dash/.streamlit/config.toml
+
+[server]
+runOnSave = true
+
+[theme]
+base="light"
+textColor="#2e303e"
+backgroundColor="#f0f0f0"
+primaryColor="#008000"
